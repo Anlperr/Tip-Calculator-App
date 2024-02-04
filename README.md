@@ -8,7 +8,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-- [Live Site URL](https://tipscalculator01.netlify.app)
+- [Live Site URL](https://anlperr.github.io/Tip-Calculator-App/)
 
 ## My process
 
@@ -19,9 +19,3 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 - Flexbox
 - Mobile-first workflow
 - Javascript
-
-## Author
-
-- Website - [Bibiwei Pere](https://perebibiwei.netlify.app)
-- Frontend Mentor - [@Bibiwei-Pere](https://www.frontendmentor.io/profile/Bibiwei-Pere)
-- Twitter - [@Bibiwei_Pere](https://www.twitter.com/Bibiwei_Pere)
